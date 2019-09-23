@@ -1,14 +1,4 @@
-"""Emoji
-
-Available Commands:
-
-.emoji shrug
-
-.emoji apple
-
-.emoji :/
-
-.emoji -_-"""
+"""COMMAND : ./cull"""
 
 from telethon import events
 
@@ -47,12 +37,12 @@ async def _(event):
             "`Private  Call Connected...`",
             "`Me: Hello Sir, Please Ban This Telegram Account.`",    
             "`Durov: May I Know Who Is This?`",
-            "`Me: Yo Brah, I Am` @arnab431",
+            "`Me: Yo Brah, I Am` @prabal007",
             "`Durov: OMG!!! I Am FAN Of You Sir...\nI'll Make Sure That Guy Account Will Get Blocked Within 24Hrs.`",
             "`Me: Thanks, See You Later Brah.`",
-            "`Durov: Please Don't Thank Sir, Telegram Is Your's. Just Gimme A Call When You Become Free.`",
+            "`Durov: Please Don't Thank Sur, Telegram Is Your's. Just Gimme A Call When You Become Free.`",
             "`Me: Is There Any Issue/Emergency???`",
-            "`Durov: Yes Sir, There Is A Bug In Telegram v5.8.0.\nI Am Not Able To Fix It. If Possible, Please Help Fix The Bug.`",
+            "`Durov: Yes Sur, There Is A Bug In Telegram v5.8.0.\nI Am Not Able To Fix It. If Possible, Please Help Fix The Bug.`",
             "`Me: Send Me The App On My Telegram Account, I Will Fix The Bug & Send You.`",
             "`Durov: Sure Sur \nTC Bye Bye :)`",
             "`Private Call Disconnected.`"
