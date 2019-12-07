@@ -14,7 +14,7 @@ async def _(event):
         s_help_string = ""
     help_string = """@UniBorg
 
-Userbot Help Window of @prabal007
+Userbot Help Window of @Giuseppe6060
 Python {}
 Telethon {}
 
