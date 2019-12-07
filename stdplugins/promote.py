@@ -14,14 +14,14 @@ async def _(event):
     start = datetime.now()
     to_promote_id = None
     rights = ChatAdminRights(
-        change_info=True,
+        change_info=False,
         post_messages=True,
-        edit_messages=True,
+        edit_messages=False,
         delete_messages=True,
         ban_users=True,
         invite_users=True,
         pin_messages=True,
-        add_admins=True,
+        add_admins=False,
     )
     input_str = event.pattern_match.group(1)
     reply_msg_id = event.message.id
