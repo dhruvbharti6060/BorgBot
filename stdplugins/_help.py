@@ -18,7 +18,7 @@ Userbot Help Window of @Giuseppe6060
 Python {}
 Telethon {}
 
-Github : https://github.com/prabal0071/BorgBot""".format(
+Github :https://github.com/dhruvbharti6060/BorgBot.git""".format(
         sys.version,
         __version__
     )
